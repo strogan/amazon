@@ -1,3 +1,8 @@
+amazon clone on firebase. Used react, redux
+
+https://cl-63bbb.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
